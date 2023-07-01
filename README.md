@@ -3,6 +3,6 @@
 </a>
 
 <a href="https://danielthecyberdude.com/skills">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4LI3N&layout=compact&show_icons=true&hide=HLSL&theme=chartreuse-dark"
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4LI3N&layout=compact&show_icons=true&hide=HLSL,HTML&theme=chartreuse-dark"
     />
 </a>

@@ -1,5 +1,5 @@
 <a href="https://danielthecyberdude.com">
-  <img src="https://github.com/D4LI3N/D4LI3N/blob/main/Hello_world.gif" src="" style="width:820px;height:350px;" />
+  <img src="https://github.com/D4LI3N/D4LI3N/blob/main/Hello_world.gif" src="" style="width:820px;" />
 </a>
 
 <a href="https://github.com/D4LI3N?tab=repositories">

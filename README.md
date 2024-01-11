@@ -3,7 +3,7 @@
 </a>
 
 <a align="center" href="https://github.com/D4LI3N?tab=repositories">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=D4LI3N&custom_title=Daniel%27s%20GitHub%20Stats&show_icons=true&rank_icon=percentile&hide=issues&theme=chartreuse-dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=D4LI3N&custom_title=GitHub%20Stats&show_icons=true&rank_icon=percentile&hide=issues,contribs&theme=chartreuse-dark" />
 </a>
 
 <a align="center" href="https://danielthecyberdude.com/skills">

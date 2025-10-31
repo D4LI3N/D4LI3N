@@ -11,7 +11,4 @@
 </a>
 
 <br>
-<p align="center" href="#" style="color:green;">
-  <b>Visitors:</b>
-  <img align="center" src="https://profile-counter.glitch.me/D4LI3N/count.svg"/>
-</p>
+

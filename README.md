@@ -10,11 +10,11 @@
 <div align="center">
   
   <a  href="https://github.com/D4LI3N?tab=repositories">
-    <img height=180   src="https://github-readme-stats.vercel.app/api?username=D4LI3N&custom_title=Stats&show_icons=true&rank_icon=percentile&hide=contribs&card_width=100&theme=chartreuse-dark" />
+    <img height=180   src="https://github-readme-stats.zohan.tech/api?username=D4LI3N&custom_title=Stats&show_icons=true&rank_icon=percentile&hide=contribs&card_width=100&theme=chartreuse-dark" />
   </a>
   
   <a  href="https://danielthecyberdude.com/skills">
-    <img height=170  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4LI3N&custom_title=Tech&layout=compact&show_icons=true&langs_count=8&hide=HLSL,HTML,batchfile,XSLT,CSS,jupyter%20notebook&theme=chartreuse-dark&card_width=364"/>
+    <img height=170  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=D4LI3N&custom_title=Tech&layout=compact&show_icons=true&langs_count=8&hide=HLSL,HTML,batchfile,XSLT,CSS,jupyter%20notebook&theme=chartreuse-dark&card_width=364"/>
   </a>
 
 </div>
